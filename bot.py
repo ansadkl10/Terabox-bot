@@ -8,7 +8,7 @@ API_HASH = "d92ea6995790b6f2de53f52a80e14829"
 BOT_TOKEN = "8545287207:AAHZFGCcR46XpLHsfiSOHb2t57Qsm2LOaN8"
 
 # 🌐 Your API
-API_URL = "https://teraapi-tan.vercel.app/api/terabox"
+API_URL = "https://tera-core.vercel.app"
 
 # 🔥 Multi-domain fallback
 DOMAINS = [
