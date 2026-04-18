@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 # 🔑 CONFIG (edit this)
 API_ID = 12425668
 API_HASH = "d92ea6995790b6f2de53f52a80e14829"
-BOT_TOKEN = "8545287207:AAHZFGCcR46XpLHsfiSOHb2t57Qsm2LOaN8"
+BOT_TOKEN = "7707765781:AAFpnF_HLRduLHUxHwoRPiSE6POujqr4kug"
 
 # 🌐 Your API
 API_URL = "https://tera-core.vercel.app"
